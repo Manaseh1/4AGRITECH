@@ -130,7 +130,7 @@ try {
           <span class="card-title black-text">Tips</span>
         </div>
         <div class="card-content">
-          <h3>Yout tip for the day</h3>
+          <h3>Your farming tip for the day</h3>
           <p><?php echo $output; ?></p>
          
         </div>
