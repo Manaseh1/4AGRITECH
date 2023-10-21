@@ -19,19 +19,19 @@
             <td><a href="moreinfo.php">more info</a></td>
           </tr>
           <tr>
-            <td>1</td>
+            <td>2</td>
             <td>Maize</td>
             <td>$0.87</td>
             <td><a href="moreinfo.php">more info</a></td>
           </tr>
           <tr>
-            <td>1</td>
+            <td>3</td>
             <td>Maize</td>
             <td>$0.87</td>
             <td><a href="moreinfo.php">more info</a></td>
           </tr>
           <tr>
-            <td>1</td>
+            <td>4</td>
             <td>Maize</td>
             <td>$0.87</td>
             <td><a href="moreinfo.php">more info</a></td>
